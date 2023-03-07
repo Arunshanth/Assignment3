@@ -1,0 +1,21 @@
+.hero-image {
+  width: 30rem;
+  border-radius: 5%;
+  height: auto;
+  max-width: 100%;
+}
+
+.hero-color {
+  background-image:linear-gradient(rgb(52, 110, 168), rgba(52, 110, 168,0));
+    background-repeat:no-repeat;
+    background-size:auto;
+}
+
+.h_line1 {
+  border-bottom: 5px solid black;
+  width: 400px;   
+}
+
+
+
+

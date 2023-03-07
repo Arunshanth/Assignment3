@@ -1,0 +1,22 @@
+.about-img {
+    width: 27rem;
+    border-radius: 50%;
+    height: auto;
+    max-width: 100%;
+}
+
+table {
+    border: none;
+    text-align: right;
+    width: 80%;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+.t{
+    margin-top: 90px;
+}
+
+td{
+    color:black;    
+}
